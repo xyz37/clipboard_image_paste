@@ -1,0 +1,15 @@
+# Translation by Ki Won Kim (http://x10.mine.nu/redmine, http://xyz37.blog.me, xyz37@naver.com)
+ko:
+  cbp_txt_add_image      : "클립보드에서 이미지 추가"
+  cbp_txt_crop_box       : "잘려진 박스:  x={1}  y={2}  width={3}  height={4}"
+  cbp_txt_print          : "PrintScreen 키를 사용한 뒤 Ctrl+V로 붙여넣기 하세요."
+  cbp_txt_select         : "이미지의 특정 영역을 선택하기 위해서 마우스를 사용하세요."
+  cbp_txt_deselect       : "선택을 해제하기 위해서 선택 영역 밖을 클릭하세요."
+  cbp_txt_empty_cb       : "클립보드가 비었습니다. 다시 한번 PrintScreen 키를 사용하세요."
+  cbp_txt_no_image_cb    : "클립보드에 이미지가 없습니다. 다시 한번 PrintScreen 키를 사용하세요."
+  cbp_txt_no_image_pst   : "아직 이미지가 붙여지지 않았습니다. 먼저 삽입하세요."
+  cbp_txt_too_many_files : "다른 첨부 이미지를 붙여넣을 수 없습니다. 한번 수정에 대한 허용되는 첨부 파일의 수는  %{max_attachments}로 제한되어 있습니다."
+  cbp_txt_wrong_browser  : "당신의 브라우저는 이미지를 붙여넣기 할 수 없습니다. %{min_firefox_ver} 버전 이상의 모질라 Firefox 또는 %{min_chrome_ver} 버전 이상의 구글 Chrome을 사용하세요."
+  cbp_txt_btn_ok         : "확인"
+  cbp_txt_btn_cancel     : "취소"
+  cbp_txt_copy_link      : "이미지 복사와 축소판 그림 링크"
